@@ -2,7 +2,7 @@
 
 Este é um projeto de IPTV que permite a transmissão de canais ao vivo diretamente em sua interface, com uma experiência intuitiva e fácil de usar. A ideia por trás deste projeto é criar uma plataforma robusta para assistir à TV de forma eficiente e com alta qualidade de imagem.
 
-![Tela do Projeto](public/assets/Tela.png)
+![Tela do Projeto](src/assets/Tela.png)
 
 ## Funcionalidades
 
@@ -45,17 +45,22 @@ Como Contribuir
 
     Faça um fork deste repositório.
 
-    Crie uma branch para sua nova feature (git checkout -b feature/nome-da-feature).
+    Crie uma branch para sua nova feature:
 
-    Faça as alterações e faça commit delas (git commit -am 'Adiciona nova feature').
+git checkout -b feature/nome-da-feature
 
-    Envie para o repositório (git push origin feature/nome-da-feature).
+Faça as alterações e faça commit delas:
+
+git commit -am 'Adiciona nova feature'
+
+Envie para o repositório:
+
+    git push origin feature/nome-da-feature
 
     Abra um Pull Request.
 
 Licença
 
 Este projeto está licenciado sob a licença MIT - veja o arquivo LICENSE para mais detalhes.
-
 
 
